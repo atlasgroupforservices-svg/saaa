@@ -8,7 +8,7 @@
   "server": {
     "ip": "emerald.magmanode.com", 
     "port": 30585,   
-    "version": "1.12.1"   
+    "version": "1.21.1"   
   },
 
   "position": {
